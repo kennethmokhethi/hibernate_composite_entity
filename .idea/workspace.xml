@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2adfa6af-9f0c-4035-aba8-8bb812bf3c72" name="Default Changelist" comment="Created test for dao">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hibernate_composite_entity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/DAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/OracleDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/CarPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/MaintenanceRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/Mechanic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jboss-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dao/OracleDAOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dao/OracleSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/hibernate.cfg.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cx3Wnhu4rZXTr3RXbMTkERFkQa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\CODING\GIT\JAVA\hibernate_composite_entity\src\test\java" />
+      <recent name="C:\CODING\GIT\JAVA\hibernate_composite_entity\src\main\java" />
+      <recent name="C:\CODING\GIT\JAVA\hibernate_composite_entity\src\test\resources" />
+      <recent name="C:\CODING\GIT\JAVA\hibernate_composite_entity\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2adfa6af-9f0c-4035-aba8-8bb812bf3c72" name="Default Changelist" comment="" />
+      <created>1591456451524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591456451524</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Created test for dao" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created test for dao" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1921" y="134" key="CommitChangelistDialog2" timestamp="1591457414148">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1921" y="134" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1591457414148" />
+    <state width="1875" height="295" key="GridCell.Tab.0.bottom" timestamp="1591457414346">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="295" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1591457414346" />
+    <state width="1875" height="295" key="GridCell.Tab.0.center" timestamp="1591457414346">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="295" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1591457414346" />
+    <state width="1875" height="295" key="GridCell.Tab.0.left" timestamp="1591457414345">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="295" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1591457414345" />
+    <state width="1875" height="295" key="GridCell.Tab.0.right" timestamp="1591457414346">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="295" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1591457414346" />
+  </component>
+</project>
